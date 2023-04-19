@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500;700&family=Poppins:wght@400;600&display=swap');
+
+::-webkit-scrollbar {
+    display: none;
+}
+#navbar{
+    background-color: #004687 !important;
+    color: #fff !important;
+    width: 90%;
+    margin: auto;
+    border-bottom: 1px solid black;
+
+}
+body{
+    
+    padding-top: 70px;
+}
+
+/* Tables Styling */
+
+table thead {
+    background-color: teal;
+    border-bottom: 4px solid white;
+    color: white;
+}
+table thead tr{
+    
+    border: none;
+}
+table tr a button{
+    
+    width:100px;
+    margin: auto;
+}
+table tr{
+    text-align: center;
+}
+footer{
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9em;
+}
+
+.footer{
+
+    background-color: teal;
+    height: 40px;
+    text-align: center;
+    padding: 3em;
+    color: #ffff !important;
+
+}
+
+
+
+table thead {
+    background-color: teal;
+    border-bottom: 4px solid white;
+    color: white;
+}
+table thead tr{
+    
+    border: none;
+}
+table tr a button{
+    
+    width:100px;
+    margin: auto;
+}
+table tr{
+    text-align: center;
+}
+#add-btn{
+    width:100%;
+    margin-bottom:20px;
+
+}
+
